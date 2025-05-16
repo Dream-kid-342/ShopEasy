@@ -44,7 +44,7 @@ A cross-platform e-commerce application built with React Native and Expo that wo
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/shopeasy.git
+git clone https://github.com/Dream-kid-342/ShopEasy.git
 cd shopeasy
 ```
 
